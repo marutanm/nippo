@@ -1,4 +1,3 @@
-daily-report
-============
+# nippo
 
-daily report tool
+nippo is daily report tool developed by node.js, express and mongodb.
